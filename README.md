@@ -1,4 +1,4 @@
-# IBM-Python-Basics-for-Data-Science
+# IBM Python Basics For Data Science
 This course gave me an introduction to Python as a programming language and how to start working with data in Python. Some key lessons I learnt included:
 •	How to work with variables.
 •	How to operate on data files, such as reading and writing them.
